@@ -48,7 +48,7 @@
 /charts/prometheus-sql-exporter/ @wilfriedroset
 /charts/prometheus-stackdriver-exporter/ @rpahli
 /charts/prometheus-statsd-exporter/ @scDisorder
-/charts/prometheus-systemd-exporter/ @maxime1907
+/charts/prometheus-systemd-exporter/ @maxime1907 @lbarrosby
 /charts/prometheus-to-sd/ @acondrat
 /charts/prometheus-windows-exporter/ @jkroepke
 /charts/prometheus-yet-another-cloudwatch-exporter/ @andriikushch @cristiangreco @thomaspeitz @tristanburgess
