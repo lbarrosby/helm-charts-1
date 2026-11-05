@@ -45,7 +45,7 @@
 /charts/prometheus-redis-exporter/ @acondrat @zanhsieh
 /charts/prometheus-smartctl-exporter/ @kfox1111 @zeritti
 /charts/prometheus-snmp-exporter/ @walker-tom @xiu
-/charts/prometheus-sql-exporter/ @wilfriedroset
+/charts/prometheus-sql-exporter/ @wilfriedroset @lbarrosby
 /charts/prometheus-stackdriver-exporter/ @rpahli
 /charts/prometheus-statsd-exporter/ @scDisorder
 /charts/prometheus-systemd-exporter/ @maxime1907
