@@ -3,7 +3,7 @@ apiVersion: v2
 appVersion: "v0.12.1"
 description: A Helm chart for prometheus pgbouncer-exporter
 name: prometheus-pgbouncer-exporter
-version: 0.11.0
+version: 0.11.1
 home: https://github.com/prometheus-community/pgbouncer_exporter
 sources:
   - https://github.com/prometheus-community/pgbouncer_exporter
@@ -18,4 +18,7 @@ maintainers:
   - name: zeritti
     email: rootsandtrees@posteo.de
     url: https://github.com/zeritti
+  - name: lbarrosby
+    email: lucasbarros.kam@gmail.com
+    url: https://github.com/lbarrosby
 type: application

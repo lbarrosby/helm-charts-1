@@ -157,6 +157,7 @@
 
 ### prometheus-pgbouncer-exporter
 
+- lbarrosby (<lucasbarros.kam@gmail.com> / @lbarrosby)
 - stewartshea (<stewart.shea@gmail.com> / @stewartshea)
 - zeritti (<rootsandtrees@posteo.de> / @zeritti)
 

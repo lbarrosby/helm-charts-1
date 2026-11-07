@@ -36,7 +36,7 @@
 /charts/prometheus-node-exporter/ @gianrubio @zanhsieh @zeritti
 /charts/prometheus-operator-admission-webhook/ @zeritti
 /charts/prometheus-operator-crds/ @QuentinBisson @dacamposol @desaintmartin @jkroepke
-/charts/prometheus-pgbouncer-exporter/ @stewartshea @zeritti
+/charts/prometheus-pgbouncer-exporter/ @lbarrosby @stewartshea @zeritti
 /charts/prometheus-pingdom-exporter/ @monotek @rpahli
 /charts/prometheus-pingmesh-exporter/ @dongjiang1989
 /charts/prometheus-postgres-exporter/ @gianrubio @zanhsieh @zeritti
