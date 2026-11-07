@@ -40,7 +40,7 @@
 /charts/prometheus-pingdom-exporter/ @monotek @rpahli
 /charts/prometheus-pingmesh-exporter/ @dongjiang1989
 /charts/prometheus-postgres-exporter/ @gianrubio @zanhsieh @zeritti
-/charts/prometheus-pushgateway/ @cstaud @gianrubio @zeritti
+/charts/prometheus-pushgateway/ @cstaud @gianrubio @lbarrosby @zeritti
 /charts/prometheus-rabbitmq-exporter/ @desaintmartin @iamabhishek-dubey @juanchimienti @monotek
 /charts/prometheus-redis-exporter/ @acondrat @zanhsieh
 /charts/prometheus-smartctl-exporter/ @kfox1111 @zeritti

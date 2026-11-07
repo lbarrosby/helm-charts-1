@@ -179,6 +179,7 @@
 
 - cstaud (<christian.staude@staffbase.com> / @cstaud)
 - gianrubio (<gianrubio@gmail.com> / @gianrubio)
+- lbarrosby (<lucasbarros.kam@gmail.com> / @lbarrosby)
 - zeritti (<rootsandtrees@posteo.de> / @zeritti)
 
 ### prometheus-rabbitmq-exporter

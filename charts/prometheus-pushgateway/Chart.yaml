@@ -3,7 +3,7 @@ apiVersion: v2
 appVersion: v1.11.4
 description: A Helm chart for prometheus pushgateway
 name: prometheus-pushgateway
-version: 3.11.2
+version: 3.11.3
 home: https://github.com/prometheus/pushgateway
 sources:
   - https://github.com/prometheus/pushgateway
@@ -21,11 +21,14 @@ maintainers:
   - name: zeritti
     email: rootsandtrees@posteo.de
     url: https://github.com/zeritti
+  - name: lbarrosby
+    email: lucasbarros.kam@gmail.com
+    url: https://github.com/lbarrosby
 annotations:
   "artifacthub.io/license": Apache-2.0
   "artifacthub.io/links": |
     - name: Chart Source
       url: https://github.com/prometheus-community/helm-charts
   "artifacthub.io/changes": |
-    - kind: fixed
-      description: Keep the web configuration volume in persistent StatefulSets with extra volumes.
+    - kind: changed
+      description: Add lbarrosby as chart maintainer.
